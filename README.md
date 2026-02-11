@@ -20,13 +20,13 @@ A partir dessas métricas, foi possível comparar o desempenho das lojas e ident
 A estrutura do projeto é organizada da seguinte forma:
 
 alura-store/
-│
-├── AluraStoreBrasil.ipynb # Notebook principal com a análise completa
-├── loja_1.csv # Base de dados da Loja 1
-├── loja_2.csv # Base de dados da Loja 2
-├── loja_3.csv # Base de dados da Loja 3
-├── loja_4.csv # Base de dados da Loja 4
-└── README.md # Documentação do projeto
+
+- AluraStoreBrasil.ipynb # Notebook principal com a análise completa
+- loja_1.csv # Base de dados da Loja 1
+- loja_2.csv # Base de dados da Loja 2
+-  loja_3.csv # Base de dados da Loja 3
+- loja_4.csv # Base de dados da Loja 4
+- README.md # Documentação do projeto
 
 
 - O arquivo **AluraStoreBrasil.ipynb** contém todo o código de análise, geração de gráficos e o relatório final.
